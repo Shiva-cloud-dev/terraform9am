@@ -1,1 +1,1 @@
-mybucket = "mkmmalmmvlmlma"
+mybucket = "mkmmalmmvlmma"
